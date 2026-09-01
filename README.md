@@ -1,46 +1,25 @@
-\# PIC16F887 Projects
+# PIC16F887 & STM32 Projects
 
+Collection of Embedded C projects developed during Embedded Systems training using PIC16F887 and STM32 microcontrollers.
 
+## Topics Covered
 
-Collection of PIC16F887 projects developed during Embedded Systems training.
+- GPIO
+- LED Control
+- Push Buttons
+- 7 Segment Displays
+- Keypad Interfacing
+- LCD Interfacing
+- Interrupts
+- Timers
+- Counters
+- PWM
+- ADC
 
+## Tools Used
 
-
-\## Topics Covered
-
-
-
-\- GPIO
-
-\- LED Control
-
-\- 7 Segment Display
-
-\- Keypad Interfacing
-
-\- LCD Interfacing
-
-\- Interrupts
-
-\- Timers
-
-\- Counters
-
-\- PWM
-
-\- ADC
-
-
-
-\## Tools Used
-
-
-
-\- MPLAB X IDE
-
-\- XC8 Compiler
-
-\- Proteus
-
-\- PIC16F887
-
+- MPLAB X IDE
+- Keil uVision5
+- Proteus
+- PIC16F887
+- STM32F103C6
