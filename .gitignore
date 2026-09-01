@@ -1,0 +1,18 @@
+# MPLAB generated files
+build/
+dist/
+nbproject/
+
+# Object files
+*.o
+*.obj
+*.elf
+*.hex
+
+# Executables
+*.exe
+
+# Misc
+*.bak
+.directory
+
