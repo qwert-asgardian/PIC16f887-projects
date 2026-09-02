@@ -2,6 +2,7 @@
 build/
 dist/
 nbproject/
+Makefile
 
 # Object files
 *.o
@@ -16,3 +17,5 @@ nbproject/
 *.bak
 .directory
 
+# Proteus personal workspace
+*.workspace
